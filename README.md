@@ -68,8 +68,8 @@ New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repo
 
 ## Relationship to Companion Repositories
 
-- **[OASIS](https://github.com/knowledgetrailsai/OASIS)** — the parent methodology; Loom implements its human–AI workflow chapter specifically, the way [Helm](https://github.com/knowledgetrailsai/HELM) implements deployment/operations and [Codex](../Codex) implements data and knowledge engineering.
-- **[Codex](../Codex)** — the data and knowledge companion (Chapter 15); the evidence shown to a reviewer in Loom's workflow blueprint depends on Codex's grounding policy and readiness assessment.
+- **[OASIS](https://github.com/knowledgetrailsai/OASIS)** — the parent methodology; Loom implements its human–AI workflow chapter specifically, the way [Helm](https://github.com/knowledgetrailsai/HELM) implements deployment/operations and [Forge](../Forge) implements data and knowledge engineering.
+- **[Forge](../Forge)** — the data and knowledge companion (Chapter 15); the evidence shown to a reviewer in Loom's workflow blueprint depends on Forge's grounding policy and readiness assessment.
 - **[Helm](https://github.com/knowledgetrailsai/HELM)** — escalation triggers and override rates named in a Loom workflow blueprint feed Helm's incident-response and learning-loop instrumentation.
 - **[Nexus](https://github.com/knowledgetrailsai/Nexus)** — the opportunity catalog; a use case's human-in-the-loop shape is decided here once it reaches engineering.
 

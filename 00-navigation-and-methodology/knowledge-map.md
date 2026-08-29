@@ -37,7 +37,7 @@ A claims-intake-and-triage workflow moves through every layer this repository co
 | Reference | What it contributes |
 |---|---|
 | [Chapter 14 — Intelligence and Agent Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-14-intelligence-and-agent-engineering.md) | Establishes system capability that Chapter 16 assumes is already built |
-| [Chapter 15 — Data and Knowledge Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-15-data-and-knowledge-engineering.md) | The evidence a workflow blueprint's "evidence shown to human" field depends on — see [Codex](../../Codex) |
+| [Chapter 15 — Data and Knowledge Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-15-data-and-knowledge-engineering.md) | The evidence a workflow blueprint's "evidence shown to human" field depends on — see [Forge](../../Forge) |
 | [Chapter 16 — Human–AI Workflow and Experience Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-16-human-ai-workflow-and-experience-engineering.md) | The primary source for this entire repository |
 | [Architecture Perspective 3: Process Architecture](https://github.com/knowledgetrailsai/OASIS/blob/main/architecture/perspective-03-process-architecture.md) | The enterprise-wide view of where a single hand-off sits inside a longer business process |
 | [Chapter 17 — Enterprise Integration and Tool Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-17-enterprise-integration-and-tool-engineering.md) | Tool contracts that assume this repository's authority model is already decided |
@@ -48,6 +48,6 @@ A claims-intake-and-triage workflow moves through every layer this repository co
 
 ## Companion repositories
 
-- **[Codex](../../Codex)** — Chapter 15 (Data and Knowledge Engineering); the evidence a Loom workflow shows a human reviewer is only as trustworthy as Codex's grounding policy and readiness assessment.
+- **[Forge](../../Forge)** — Chapter 15 (Data and Knowledge Engineering); the evidence a Loom workflow shows a human reviewer is only as trustworthy as Forge's grounding policy and readiness assessment.
 - **[Helm](https://github.com/knowledgetrailsai/HELM)** — Chapter 17/18/19/21 (AgentOps); escalation triggers and override rates named in a Loom workflow blueprint feed Helm's incident-response and learning-loop instrumentation.
 - **[Nexus](https://github.com/knowledgetrailsai/Nexus)** — the opportunity catalog; a use case's human-in-the-loop shape is decided here once it reaches engineering.

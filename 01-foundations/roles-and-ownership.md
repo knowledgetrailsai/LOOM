@@ -14,7 +14,7 @@ This is the enterprise-level expression of the Business Process Owner, and it is
 |---|---|---|
 | Business Outcome Owner | Outcome baseline, target, process authority and value realization | Owns the process a Loom workflow blueprint redesigns; holds authority to actually change it |
 | Product / Service Owner | Scope, release, service health, backlog and lifecycle | Owns the interface and release cadence a workflow blueprint's "interface" field specifies |
-| Data / Knowledge Owner | Authority, quality, access, freshness and lineage | Supplies the evidence a workflow blueprint's "evidence shown to human" field depends on — see [Codex](../../Codex) |
+| Data / Knowledge Owner | Authority, quality, access, freshness and lineage | Supplies the evidence a workflow blueprint's "evidence shown to human" field depends on — see [Forge](../../Forge) |
 | Model / AI Steward | Model strategy, provider risk, evaluation and version policy | Counterpart on the AI-contribution side of the blueprint |
 | Security / Privacy / Legal / RAI | Requirements, challenge, advice and acceptance within mandate | Reviews authority and escalation design for regulated decision points |
 | Operations Owner | Runbook, support, incidents, capacity, change and recovery | Owns the fallback and escalation paths named in the blueprint once live |

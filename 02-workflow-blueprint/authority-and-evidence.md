@@ -19,4 +19,4 @@ It is tempting to describe the AI contribution in terms of technology ("uses a l
 
 ## What evidence must be visible
 
-The evidence field states what source, confidence, and context must be visible to the human at the point of decision. This is where [Codex](../../Codex)'s [grounding policy](../../Codex/04-grounding-and-context-quality/grounding-policy.md) and [context quality checklist](../../Codex/04-grounding-and-context-quality/context-quality-checklist.md) become load-bearing for workflow design: a human cannot exercise real authority over evidence they cannot see, verify, or trace to its source.
+The evidence field states what source, confidence, and context must be visible to the human at the point of decision. This is where [Forge](../../Forge)'s [grounding policy](../../Forge/04-grounding-and-context-quality/grounding-policy.md) and [context quality checklist](../../Forge/04-grounding-and-context-quality/context-quality-checklist.md) become load-bearing for workflow design: a human cannot exercise real authority over evidence they cannot see, verify, or trace to its source.

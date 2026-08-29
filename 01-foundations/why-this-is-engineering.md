@@ -8,7 +8,7 @@ Redesign work around complementary human and machine strengths, explicit authori
 
 ## The gap this chapter closes
 
-[Chapter 14](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-14-intelligence-and-agent-engineering.md) establishes what the intelligence system can do. [Chapter 15](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-15-data-and-knowledge-engineering.md) (see [Codex](../../Codex)) ensures it has governed, sufficient evidence. Neither answers who is allowed to do what with the system, or how a human and a machine hand work back and forth. That is the gap Chapter 16 closes.
+[Chapter 14](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-14-intelligence-and-agent-engineering.md) establishes what the intelligence system can do. [Chapter 15](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-15-data-and-knowledge-engineering.md) (see [Forge](../../Forge)) ensures it has governed, sufficient evidence. Neither answers who is allowed to do what with the system, or how a human and a machine hand work back and forth. That is the gap Chapter 16 closes.
 
 Most AI programs succeed or fail here — not on model quality, but on whether the surrounding work was redesigned for the new division of labor.
 

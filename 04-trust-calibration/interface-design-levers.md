@@ -6,7 +6,7 @@ Interfaces are the primary lever for correcting over-reliance or under-use. A wo
 
 | Lever | What it does |
 |---|---|
-| Source quality display | Shows the reviewer where evidence came from and how authoritative it is — depends on [Codex](../../Codex)'s [readiness assessment](../../Codex/03-readiness-assessment/readiness-dimensions.md) actually being populated |
+| Source quality display | Shows the reviewer where evidence came from and how authoritative it is — depends on [Forge](../../Forge)'s [readiness assessment](../../Forge/03-readiness-assessment/readiness-dimensions.md) actually being populated |
 | Uncertainty display | Surfaces model confidence or ambiguity rather than presenting every output with uniform, unearned confidence |
 | Limitations statement | States what the system is and isn't good at for this specific decision, not a generic disclaimer |
 | Action scope | Makes the blast radius of the proposed action visible before approval — a small edit vs. an irreversible transaction should not look the same |
