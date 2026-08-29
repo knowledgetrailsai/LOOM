@@ -1,0 +1,20 @@
+# Template: Human-AI Workflow Blueprint
+# See ../02-workflow-blueprint/template.md for field-by-field notes.
+human_ai_workflow_blueprint:
+  workflow_name: ""
+  step_sequence:
+    - step: ""
+      ai_role: ""
+      human_role: ""
+      authority: ""
+      evidence_shown_to_human: ""
+      interface: ""
+      approval_required: false
+      override_mechanism: ""
+      fallback_if_ai_unavailable: ""
+      escalation_trigger: ""
+      escalation_target: ""
+  feedback_loop:
+    how_human_corrections_are_captured: ""
+    how_corrections_feed_back_to_evaluation: ""
+  outcome_event: ""
