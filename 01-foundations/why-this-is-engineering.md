@@ -16,11 +16,11 @@ Most AI programs succeed or fail here — not on model quality, but on whether t
 
 A workflow that never specifies who has authority over a decision, or what a person sees before approving an AI-prepared action, is an **unfinished design**, not a training gap. This chapter's templates decide authority, evidence and fallback at design time, alongside the model and data pipeline.
 
-[Architecture Perspective 3: Process Architecture](https://github.com/knowledgetrailsai/OASIS/blob/main/architecture/perspective-03-process-architecture.md) maps how a single hand-off sits inside a longer business process — use it (see [05-process-architecture-integration](../05-process-architecture-integration/)) to locate a workflow in that wider map, and its handback-design section when a return-to-human trigger must be explicit across a whole process.
+[Architecture Perspective 3: Process Architecture](https://github.com/knowledgetrailsai/OASIS/blob/main/architecture/perspective-03-process-architecture.md) maps how a single hand-off sits inside a longer business process — use it (see [05-process-architecture-integration](../05-process-architecture-integration/process-to-agent-participation-map.md)) to locate a workflow in that wider map, and its handback-design section when a return-to-human trigger must be explicit across a whole process.
 
 ## The artifact this chapter produces
 
-Chapter 16 produces the artifact the rest of the methodology points back to: the [Human–AI Workflow Blueprint](https://github.com/knowledgetrailsai/OASIS/blob/main/tools/02-workflow-and-intelligence-templates.md#7-human-ai-workflow-blueprint) template (see [02-workflow-blueprint](../02-workflow-blueprint/)). Complete it early:
+Chapter 16 produces the artifact the rest of the methodology points back to: the [Human–AI Workflow Blueprint](https://github.com/knowledgetrailsai/OASIS/blob/main/tools/02-workflow-and-intelligence-templates.md#7-human-ai-workflow-blueprint) template (see [02-workflow-blueprint](../02-workflow-blueprint/blueprint-overview.md)). Complete it early:
 
 - [Chapter 17](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-17-enterprise-integration-and-tool-engineering.md)'s tool contracts assume the authority model is already decided.
 - [Chapter 18](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-18-evaluation-and-reliability-engineering.md)'s evaluation of escalation correctness assumes the escalation triggers named here already exist.

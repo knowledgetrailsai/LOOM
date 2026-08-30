@@ -63,7 +63,7 @@ New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repo
 
 ### Reference
 - [Glossary](glossary/terminology.md)
-- [Templates](templates/)
+- [Templates](templates/human-ai-workflow-blueprint.yaml)
 - [Full Index](INDEX.md)
 
 ## Relationship to Companion Repositories

@@ -81,4 +81,4 @@ transitions:
 
 Without this graph it becomes unclear where an agent's authority starts and stops relative to the surrounding human-owned process, and process owners lose visibility into how much of "their" process now runs through agentic components they did not design.
 
-The fillable version is in [templates/](../templates/).
+The fillable version is in [templates/](../templates/human-ai-workflow-blueprint.yaml).
