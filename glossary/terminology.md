@@ -2,7 +2,7 @@
 
 `Home › Glossary`
 
-**Authority (workflow blueprint field)** — who may decide or act for a given case class and threshold; must resolve to a named role or rule, never "the AI, usually."
+**Authority (workflow blueprint field)** — who may decide or act for a given case class and threshold; must resolve to a named role or rule, never "the AI, usually." (Note: [Forge's glossary](https://github.com/knowledgetrailsai/Forge/blob/main/glossary/terminology.md) uses "Authority" for a different concept — a data source's ownership and system of record, not decision-making authority. Same word, deliberately different scope; don't conflate them.)
 
 **Autonomy ladder** — the six-mode progression (shadow, recommend, assist, approve-to-act, exception-based, bounded autonomy) a workflow climbs as evidence of reliability accumulates.
 
