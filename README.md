@@ -6,7 +6,7 @@ A human–AI workflow companion to the OASIS methodology — redesigning work ar
 TASK/DECISION → AI CONTRIBUTION → HUMAN CONTRIBUTION → AUTHORITY → EVIDENCE → FALLBACK → FEEDBACK → OUTCOME
 ```
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-yellow.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/status-draft%20v1.0-orange)
 
 **Companion repository:** [OASIS](https://github.com/knowledgetrailsai/OASIS) methodology — primarily [Chapter 16 — Human–AI Workflow and Experience Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-16-human-ai-workflow-and-experience-engineering.md), plus [Architecture Perspective 3: Process Architecture](https://github.com/knowledgetrailsai/OASIS/blob/main/architecture/perspective-03-process-architecture.md), Chapter 17, Chapter 18, and Chapter 24.
@@ -79,8 +79,8 @@ Scaffold stage — structure and first-pass content drafted section by section f
 
 ## License
 
-Content licensed under [MIT](LICENSE), matching the parent OASIS methodology.
+Content licensed under [CC BY-SA 4.0](LICENSE), matching the parent OASIS methodology. Credit Shripadraj Mujumdar, KnowledgeTrails, and Loom; indicate changes and release adaptations under the same license.
 
 ## About Us
 
-**Shripadraj Mujumdar** is Head of Agentic AI and Chief Enterprise Architect — Agentic AI & Intelligent Automation at Godrej Enterprises Group, with 28+ years in enterprise architecture and technology leadership, including 3+ years hands-on in Agentic AI/Generative AI and 10+ years in AI and data-transformation architectures. He is the architect behind Amethyst, Godrej's enterprise multi-cloud Agentic AI platform powering 50+ autonomous agents across 14 business ventures, and previously led Data, AI, and Responsible AI at Michelin, architecting enterprise data and knowledge-graph platforms and AI governance frameworks aligned to the EU AI Act. This methodology ecosystem distills that practitioner experience — architecture, delivery, evaluation, governance, and economics learned across FinTech, industrial, and material-science AI programs — into a single, reusable body of work.
+**Shripadraj Mujumdar** is an Agentic AI & Automation Strategist, Advisor, and Responsible AI Expert with 28+ years of experience in enterprise architecture and AI-driven transformation, including deep hands-on work in Agentic AI, Generative AI, and enterprise data and knowledge platforms. His practice spans designing multi-agent systems, knowledge-graph and RAG architectures, accelerated delivery capabilities, and Responsible AI governance frameworks aligned to global regulatory standards. This methodology ecosystem distills that practitioner experience — architecture, delivery, evaluation, governance, and economics — into a single, reusable body of work.
