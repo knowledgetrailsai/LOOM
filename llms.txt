@@ -1,0 +1,36 @@
+# Loom
+
+> Loom is the human–AI workflow and experience engineering companion to the OASIS methodology — implementing Chapter 16: designing workflow blueprints, progressive autonomy, and trust calibration between people and agents.
+
+See [INDEX.md](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/INDEX.md) for the complete flat file list.
+
+## Foundations and workflow blueprint
+
+- [Why This Is Engineering](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/01-foundations/why-this-is-engineering.md)
+- [Principles](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/01-foundations/principles.md)
+- [Workflow Blueprint Overview](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/02-workflow-blueprint/blueprint-overview.md)
+- [Authority and Evidence](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/02-workflow-blueprint/authority-and-evidence.md)
+- [Human-AI Workflow Blueprint Template (YAML)](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/templates/human-ai-workflow-blueprint.yaml)
+
+## Autonomy and trust
+
+- [Autonomy Ladder](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/03-progressive-autonomy/autonomy-ladder.md)
+- [Promotion and Demotion Criteria](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/03-progressive-autonomy/promotion-and-demotion-criteria.md)
+- [Appropriate Reliance](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/04-trust-calibration/appropriate-reliance.md)
+- [Behavioral Signals](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/04-trust-calibration/behavioral-signals.md)
+
+## Process integration and change
+
+- [Process-to-Agent Participation Map](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/05-process-architecture-integration/process-to-agent-participation-map.md)
+- [Process Risk Classification](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/05-process-architecture-integration/process-risk-classification.md)
+- [Change and Capability](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/06-change-and-capability/change-and-capability.md)
+- [Adoption and Training](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/06-change-and-capability/adoption-and-training.md)
+
+## Reference
+
+- [Terminology](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/glossary/terminology.md)
+
+## Companion repositories
+
+- [OASIS](https://raw.githubusercontent.com/knowledgetrailsai/OASIS/main/llms.txt) — parent methodology (Chapter 16 implemented here).
+- [Ageis](https://raw.githubusercontent.com/knowledgetrailsai/Agentic-Engineeering-SDLC/main/llms.txt), [Forge](https://raw.githubusercontent.com/knowledgetrailsai/Forge/master/llms.txt), [Helm](https://raw.githubusercontent.com/knowledgetrailsai/HELM/main/llms.txt), [Verity](https://raw.githubusercontent.com/knowledgetrailsai/VERITY/master/llms.txt), [Compass](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/llms.txt), [Fulcrum](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/llms.txt) — sibling chapter companions.
