@@ -80,3 +80,7 @@ Scaffold stage — structure and first-pass content drafted section by section f
 ## License
 
 Content licensed under [MIT](LICENSE), matching the parent OASIS methodology.
+
+## About Us
+
+**Shripadraj Mujumdar** is Head of Agentic AI and Chief Enterprise Architect — Agentic AI & Intelligent Automation at Godrej Enterprises Group, with 28+ years in enterprise architecture and technology leadership, including 3+ years hands-on in Agentic AI/Generative AI and 10+ years in AI and data-transformation architectures. He is the architect behind Amethyst, Godrej's enterprise multi-cloud Agentic AI platform powering 50+ autonomous agents across 14 business ventures, and previously led Data, AI, and Responsible AI at Michelin, architecting enterprise data and knowledge-graph platforms and AI governance frameworks aligned to the EU AI Act. This methodology ecosystem distills that practitioner experience — architecture, delivery, evaluation, governance, and economics learned across FinTech, industrial, and material-science AI programs — into a single, reusable body of work.
