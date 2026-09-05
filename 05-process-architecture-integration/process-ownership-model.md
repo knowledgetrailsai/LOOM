@@ -2,6 +2,8 @@
 
 `Home › 05-process-architecture-integration › Process Ownership Model`
 
+[← Previous: Process-to-Agent Participation Map](process-to-agent-participation-map.md) · [Contents](../README.md) · [Next: Process Risk Classification →](process-risk-classification.md)
+
 | Principle | What it means in practice |
 |---|---|
 | The process owner is never the agent | A named human or function owns the end-to-end process outcome regardless of how many steps are agent-executed — the process-level instance of "Human accountable." |

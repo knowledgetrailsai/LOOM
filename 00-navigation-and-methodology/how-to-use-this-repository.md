@@ -2,6 +2,8 @@
 
 `Home › 00-navigation-and-methodology › How to Use This Repository`
 
+[← Previous: Knowledge Map](knowledge-map.md) · [Contents](../README.md) · [Next: Why This Is Engineering →](../01-foundations/why-this-is-engineering.md)
+
 Three ways to navigate, depending on what you already know.
 
 | You know... | Use |

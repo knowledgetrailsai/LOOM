@@ -2,6 +2,8 @@
 
 `Home › 05-process-architecture-integration › Process Risk Classification`
 
+[← Previous: Process Ownership Model](process-ownership-model.md) · [Contents](../README.md) · [Next: Change and Capability →](../06-change-and-capability/change-and-capability.md)
+
 ## Scoring model
 
 Score every process step on three inputs, 1–3 each:

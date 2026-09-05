@@ -2,6 +2,8 @@
 
 `Home › 01-foundations › Principles`
 
+[← Previous: Why This Is Engineering](why-this-is-engineering.md) · [Contents](../README.md) · [Next: Roles and Ownership →](roles-and-ownership.md)
+
 ## Authority must resolve to a named role or rule
 
 "Who may decide" should resolve to a named role or rule, not "the AI, usually," or accountability evaporates the first time something goes wrong. See [02-workflow-blueprint/authority-and-evidence.md](../02-workflow-blueprint/authority-and-evidence.md).

@@ -2,6 +2,8 @@
 
 `Home › 04-trust-calibration › Interface Design Levers`
 
+[← Previous: Appropriate Reliance](appropriate-reliance.md) · [Contents](../README.md) · [Next: Behavioral Signals →](behavioral-signals.md)
+
 Interfaces are the primary lever for correcting over-reliance or under-use. A workflow's [Human–AI Workflow Blueprint](../02-workflow-blueprint/template.md) "interface" and "evidence shown to human" fields are where these levers get specified concretely.
 
 | Lever | What it does |

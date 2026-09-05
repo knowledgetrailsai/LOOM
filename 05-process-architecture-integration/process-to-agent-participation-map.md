@@ -2,6 +2,8 @@
 
 `Home › 05-process-architecture-integration › Process-to-Agent Participation Map`
 
+[← Previous: Behavioral Signals](../04-trust-calibration/behavioral-signals.md) · [Contents](../README.md) · [Next: Process Ownership Model →](process-ownership-model.md)
+
 Adapted from [Architecture Perspective 3: Process Architecture §1](https://github.com/knowledgetrailsai/OASIS/blob/main/architecture/perspective-03-process-architecture.md#1-process-to-agent-participation-map).
 
 Chapter 16 (this repository) addresses human–AI workflow design at the level of a single interaction: how a human and an agent hand off a task, when to interrupt for approval, how to design for override. Process Architecture takes the wider view a process owner needs: a business process (claims intake through settlement; a hire from requisition through onboarding) is usually longer, more branched, and touches more systems than any single agent's scope. An agent typically owns one or a few steps within a process it does not own end-to-end.

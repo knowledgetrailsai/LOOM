@@ -2,6 +2,8 @@
 
 `Home › 03-progressive-autonomy › Autonomy Ladder`
 
+[← Previous: Template](../02-workflow-blueprint/template.md) · [Contents](../README.md) · [Next: Promotion and Demotion Criteria →](promotion-and-demotion-criteria.md)
+
 Autonomy is not a single on/off decision made at launch. It is a ladder a workflow climbs one rung at a time, as evidence accumulates that the rung below is reliable.
 
 | Mode | System role | Human role |

@@ -2,6 +2,8 @@
 
 `Home › 03-progressive-autonomy › Promotion and Demotion Criteria`
 
+[← Previous: Autonomy Ladder](autonomy-ladder.md) · [Contents](../README.md) · [Next: Appropriate Reliance →](../04-trust-calibration/appropriate-reliance.md)
+
 ## Promotion rule
 
 Promote a workflow to the next rung of the [autonomy ladder](autonomy-ladder.md) only if both hold:

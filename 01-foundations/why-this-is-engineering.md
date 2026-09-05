@@ -2,6 +2,8 @@
 
 `Home › 01-foundations › Why This Is Engineering`
 
+[← Previous: How to Use This Repository](../00-navigation-and-methodology/how-to-use-this-repository.md) · [Contents](../README.md) · [Next: Principles →](principles.md)
+
 ## Chapter purpose
 
 Redesign work around complementary human and machine strengths, explicit authority, usable oversight, trust calibration and accessible experiences.

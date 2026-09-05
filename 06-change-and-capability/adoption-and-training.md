@@ -2,6 +2,8 @@
 
 `Home › 06-change-and-capability › Adoption and Training`
 
+[← Previous: Change and Capability](change-and-capability.md) · [Contents](../README.md) · [Next: Transition Metrics →](transition-metrics.md)
+
 ## Start at discovery, not at go-live
 
 Engaging users during discovery and evaluation — before a workflow is built, while it's still cheap to change — surfaces objections and edge cases that a post-build training session cannot fix. Waiting until training to involve the people who do the work means the roles and incentives around the job are usually already decided without them.

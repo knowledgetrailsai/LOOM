@@ -2,6 +2,8 @@
 
 `Home › 02-workflow-blueprint › Template`
 
+[← Previous: Authority and Evidence](authority-and-evidence.md) · [Contents](../README.md) · [Next: Autonomy Ladder →](../03-progressive-autonomy/autonomy-ladder.md)
+
 Reproduced from [Tools: Workflow and Intelligence Templates §7](https://github.com/knowledgetrailsai/OASIS/blob/main/tools/02-workflow-and-intelligence-templates.md#7-human-ai-workflow-blueprint).
 
 ## Schema

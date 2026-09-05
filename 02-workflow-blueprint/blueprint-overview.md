@@ -2,6 +2,8 @@
 
 `Home › 02-workflow-blueprint › Overview`
 
+[← Previous: Roles and Ownership](../01-foundations/roles-and-ownership.md) · [Contents](../README.md) · [Next: Authority and Evidence →](authority-and-evidence.md)
+
 Redesigning a workflow means fixing eight design decisions, per step, before any code or prompt gets written. Skipping one doesn't remove the decision. It just means the decision gets made implicitly, in production, usually by whichever engineer wrote the fallback path last.
 
 | Element | Required design decision |

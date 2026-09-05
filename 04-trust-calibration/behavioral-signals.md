@@ -2,6 +2,8 @@
 
 `Home › 04-trust-calibration › Behavioral Signals`
 
+[← Previous: Interface Design Levers](interface-design-levers.md) · [Contents](../README.md) · [Next: Process-to-Agent Participation Map →](../05-process-architecture-integration/process-to-agent-participation-map.md)
+
 Trust calibration is behavioral. Measure it with detection algorithms against logged event data, not by self-report or survey.
 
 ## Rubber-stamping

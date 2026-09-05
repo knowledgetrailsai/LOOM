@@ -2,6 +2,8 @@
 
 `Home › 00-navigation-and-methodology › Knowledge Map`
 
+[Contents](../README.md) · [Next: How to Use This Repository →](how-to-use-this-repository.md)
+
 Loom implements one OASIS methodology chapter ([Chapter 16: Human–AI Workflow and Experience Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-16-human-ai-workflow-and-experience-engineering.md)), but Chapter 16 sits at a hinge point in OASIS: everything before it builds capability, everything after it assumes authority and evidence are already decided.
 
 ```

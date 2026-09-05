@@ -2,6 +2,8 @@
 
 `Home › 06-change-and-capability › Transition Metrics`
 
+[← Previous: Adoption and Training](adoption-and-training.md) · [Contents](../README.md) · [Next: Terminology →](../glossary/terminology.md)
+
 Measure the transition itself, not just the eventual outcome. These are early signals of whether a workflow is landing, well before the [outcome metrics](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-18-evaluation-and-reliability-engineering.md) move.
 
 ## Definitions

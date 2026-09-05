@@ -2,6 +2,8 @@
 
 `Home › 06-change-and-capability › Change and Capability`
 
+[← Previous: Process Risk Classification](../05-process-architecture-integration/process-risk-classification.md) · [Contents](../README.md) · [Next: Adoption and Training →](adoption-and-training.md)
+
 Adoption work has to start earlier than most programs schedule it. Engaging users during discovery and evaluation surfaces objections and edge cases while they are still cheap to address. By the time training is the first point of contact, the roles and incentives around the job are usually already decided without the people who live inside them.
 
 ## Redesign roles alongside the workflow, not after it

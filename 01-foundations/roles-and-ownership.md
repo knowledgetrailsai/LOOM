@@ -2,6 +2,8 @@
 
 `Home › 01-foundations › Roles and Ownership`
 
+[← Previous: Principles](principles.md) · [Contents](../README.md) · [Next: Overview →](../02-workflow-blueprint/blueprint-overview.md)
+
 [Chapter 24 — Roles, Teams and Governance Forums](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-24-roles-teams-and-governance-forums.md) names the enterprise role this repository's authority-and-evidence design decisions ultimately answer to:
 
 > **Business Outcome Owner**: accountable for outcome baseline, target, process authority and value realization.

@@ -2,6 +2,8 @@
 
 `Home › 02-workflow-blueprint › Authority and Evidence`
 
+[← Previous: Overview](blueprint-overview.md) · [Contents](../README.md) · [Next: Template →](template.md)
+
 The blueprint's most consequential field is **authority**: whether the AI acts, whether it recommends and a human decides, or whether the human acts with AI assistance. This field must resolve to a boolean expression over observable case attributes — not a sentence with "usually" or "typically" in it.
 
 ## Decision table: authority mode by case value and model confidence
