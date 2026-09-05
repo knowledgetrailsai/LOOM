@@ -11,4 +11,4 @@
 
 ## Why this matters for Loom specifically
 
-A [Human–AI Workflow Blueprint](../02-workflow-blueprint/template.md) is written at the step level. Without an explicit process ownership model sitting above it, it's easy to write a technically excellent blueprint for one step while leaving the overall process owner unclear — the exact ambiguity that turns into a finger-pointing exercise during an incident review.
+A [Human–AI Workflow Blueprint](../02-workflow-blueprint/template.md) is written at the step level. Without an explicit process ownership model sitting above it, it's easy to write a technically excellent blueprint for one step while leaving the overall process owner unclear: the exact ambiguity that turns into a finger-pointing exercise during an incident review.

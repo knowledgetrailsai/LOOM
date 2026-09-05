@@ -51,8 +51,8 @@ If the same 2.4% point estimate were observed on n = 60 instead, the Wilson uppe
 
 Demote immediately, pending re-evaluation, if either holds:
 
-1. The rolling 7-day override rate's **point estimate** exceeds 2× the rate observed at the time of last promotion (e.g., promoted at 2.4% → demote if the 7-day rate exceeds 4.8%, no confidence-interval calculation required — this is a fast trip-wire, not a statistical test).
-2. A policy or model change occurred with unverified downstream effect on this workflow — demote until re-verified against the Chapter 18 evaluation set, independent of the current override rate.
+1. The rolling 7-day override rate's **point estimate** exceeds 2× the rate observed at the time of last promotion (e.g., promoted at 2.4% → demote if the 7-day rate exceeds 4.8%, no confidence-interval calculation required, since this is a fast trip-wire, not a statistical test).
+2. A policy or model change occurred with unverified downstream effect on this workflow: demote until re-verified against the Chapter 18 evaluation set, independent of the current override rate.
 
 Demotion is not a failure state to be avoided; treating it as one discourages teams from doing it when the data calls for it, which is itself a trust-calibration risk (see [04-trust-calibration](../04-trust-calibration/behavioral-signals.md)).
 

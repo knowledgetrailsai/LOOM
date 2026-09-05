@@ -10,13 +10,13 @@ Redesign work around complementary human and machine strengths, explicit authori
 
 [Chapter 14](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-14-intelligence-and-agent-engineering.md) establishes what the intelligence system can do. [Chapter 15](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-15-data-and-knowledge-engineering.md) (see [Forge](../../Forge)) ensures it has governed, sufficient evidence. Neither answers who is allowed to do what with the system, or how a human and a machine hand work back and forth. That is the gap Chapter 16 closes.
 
-Most AI programs succeed or fail here — not on model quality, but on whether the surrounding work was redesigned for the new division of labor.
+Most AI programs succeed or fail here. Not on model quality, but on whether the surrounding work was redesigned for the new division of labor.
 
 ## This is engineering, not change management bolted on afterward
 
 A workflow that never specifies who has authority over a decision, or what a person sees before approving an AI-prepared action, is an **unfinished design**, not a training gap. This chapter's templates decide authority, evidence and fallback at design time, alongside the model and data pipeline.
 
-[Architecture Perspective 3: Process Architecture](https://github.com/knowledgetrailsai/OASIS/blob/main/architecture/perspective-03-process-architecture.md) maps how a single hand-off sits inside a longer business process — use it (see [05-process-architecture-integration](../05-process-architecture-integration/process-to-agent-participation-map.md)) to locate a workflow in that wider map, and its handback-design section when a return-to-human trigger must be explicit across a whole process.
+[Architecture Perspective 3: Process Architecture](https://github.com/knowledgetrailsai/OASIS/blob/main/architecture/perspective-03-process-architecture.md) maps how a single hand-off sits inside a longer business process. Use it (see [05-process-architecture-integration](../05-process-architecture-integration/process-to-agent-participation-map.md)) to locate a workflow in that wider map, and its handback-design section when a return-to-human trigger must be explicit across a whole process.
 
 ## The artifact this chapter produces
 

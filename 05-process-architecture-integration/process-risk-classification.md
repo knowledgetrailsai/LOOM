@@ -12,7 +12,7 @@ Score every process step on three inputs, 1–3 each:
 | 2 | Medium (e.g. $50–$5,000) | Reversible with material effort/cost | Internal policy or contractual constraint |
 | 3 | High (e.g. > $5,000, or reputational/safety exposure) | Irreversible or effectively so once executed | Regulated decision point (credit, employment, benefits eligibility, healthcare) |
 
-**Risk tier = max(value, reversibility, regulatory_sensitivity)** — use max, not sum, so a single high-severity input (e.g., regulatory sensitivity = 3) cannot be diluted by two low scores elsewhere. Map the combined score to a tier:
+**Risk tier = max(value, reversibility, regulatory_sensitivity)**: use max, not sum, so a single high-severity input (e.g., regulatory sensitivity = 3) cannot be diluted by two low scores elsewhere. Map the combined score to a tier:
 
 | Combined score (max) | Risk tier |
 |---|---|
@@ -30,8 +30,8 @@ Score every process step on three inputs, 1–3 each:
 
 ## Worked example
 
-A credit-limit-increase step: value = 3 (increases can run into thousands of dollars), reversibility = 2 (can be reversed but with customer-relationship cost), regulatory sensitivity = 3 (credit decision, regulated). Risk tier = max(3,2,3) = 3 → **High**. Permitted modes: Shadow, Recommend, Assist only — the workflow can prepare a recommended limit and supporting evidence, but a human must decide and act, and this cannot be promoted to approve-to-act without Independent Assurance sign-off regardless of override-rate history.
+A credit-limit-increase step: value = 3 (increases can run into thousands of dollars), reversibility = 2 (can be reversed but with customer-relationship cost), regulatory sensitivity = 3 (credit decision, regulated). Risk tier = max(3,2,3) = 3 → **High**. Permitted modes: Shadow, Recommend, Assist only; the workflow can prepare a recommended limit and supporting evidence, but a human must decide and act, and this cannot be promoted to approve-to-act without Independent Assurance sign-off regardless of override-rate history.
 
 ## Relationship to system-level workflow design
 
-A process map spans potentially many systems and agents; a single system's own harness and orchestration design governs how one agent or workflow executes its portion. Don't duplicate step-level implementation detail in the process map — link to the owning system's design and keep the process map at the process-step, risk-tier, and ownership level.
+A process map spans potentially many systems and agents; a single system's own harness and orchestration design governs how one agent or workflow executes its portion. Don't duplicate step-level implementation detail in the process map. Link to the owning system's design and keep the process map at the process-step, risk-tier, and ownership level.

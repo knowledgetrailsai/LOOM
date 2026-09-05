@@ -2,7 +2,7 @@
 
 `Home › 00-navigation-and-methodology › Knowledge Map`
 
-Loom implements one OASIS methodology chapter — [Chapter 16: Human–AI Workflow and Experience Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-16-human-ai-workflow-and-experience-engineering.md) — but Chapter 16 sits at a hinge point in OASIS: everything before it builds capability, everything after it assumes authority and evidence are already decided.
+Loom implements one OASIS methodology chapter ([Chapter 16: Human–AI Workflow and Experience Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-16-human-ai-workflow-and-experience-engineering.md)), but Chapter 16 sits at a hinge point in OASIS: everything before it builds capability, everything after it assumes authority and evidence are already decided.
 
 ```
 Ch.14 (Intelligence & Agent Engineering) — what the system CAN do
@@ -19,13 +19,13 @@ Ch.18 (Evaluation & Reliability Engineering) — escalation-correctness evaluati
    assumes the escalation triggers named here already exist
 ```
 
-Most AI programs succeed or fail here — not on model quality, but on whether the surrounding work was redesigned for the new division of labor. This is engineering, not change management bolted on afterward: a workflow that never specifies who has authority over a decision is an unfinished design, not a training gap.
+Most AI programs succeed or fail here: not on model quality, but on whether the surrounding work was redesigned for the new division of labor. This is engineering, not change management bolted on afterward: a workflow that never specifies who has authority over a decision is an unfinished design, not a training gap.
 
 ## Worked example: one workflow, traced end to end
 
 A claims-intake-and-triage workflow moves through every layer this repository covers:
 
-1. **Blueprint** ([02-workflow-blueprint](../02-workflow-blueprint/blueprint-overview.md)): for each step — intake, classification, routing, exception handling — name the AI contribution, the human contribution, authority, evidence shown, fallback, feedback, and outcome.
+1. **Blueprint** ([02-workflow-blueprint](../02-workflow-blueprint/blueprint-overview.md)): for each step (intake, classification, routing, exception handling), name the AI contribution, the human contribution, authority, evidence shown, fallback, feedback, and outcome.
 2. **Process placement** ([05-process-architecture-integration](../05-process-architecture-integration/process-to-agent-participation-map.md)): claims intake is one step inside a longer settlement process a human process owner still owns end to end.
 3. **Autonomy** ([03-progressive-autonomy](../03-progressive-autonomy/autonomy-ladder.md)): the classification step starts in shadow mode, graduates to assist, and — once override rates and evaluation results support it — to approve-to-act.
 4. **Trust calibration** ([04-trust-calibration](../04-trust-calibration/appropriate-reliance.md)): the interface shows confidence and source evidence so a reviewer doesn't rubber-stamp routing decisions.
@@ -48,6 +48,6 @@ A claims-intake-and-triage workflow moves through every layer this repository co
 
 ## Companion repositories
 
-- **[Forge](../../Forge)** — Chapter 15 (Data and Knowledge Engineering); the evidence a Loom workflow shows a human reviewer is only as trustworthy as Forge's grounding policy and readiness assessment.
-- **[Helm](https://github.com/knowledgetrailsai/HELM)** — Chapter 17/18/19/21 (AgentOps); escalation triggers and override rates named in a Loom workflow blueprint feed Helm's incident-response and learning-loop instrumentation.
-- **[Nexus](https://github.com/knowledgetrailsai/Nexus)** — the opportunity catalog; a use case's human-in-the-loop shape is decided here once it reaches engineering.
+- **[Forge](../../Forge)**: Chapter 15 (Data and Knowledge Engineering); the evidence a Loom workflow shows a human reviewer is only as trustworthy as Forge's grounding policy and readiness assessment.
+- **[Helm](https://github.com/knowledgetrailsai/HELM)**: Chapter 17/18/19/21 (AgentOps); escalation triggers and override rates named in a Loom workflow blueprint feed Helm's incident-response and learning-loop instrumentation.
+- **[Nexus](https://github.com/knowledgetrailsai/Nexus)**: the opportunity catalog; a use case's human-in-the-loop shape is decided here once it reaches engineering.

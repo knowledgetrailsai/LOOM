@@ -15,10 +15,10 @@ Three ways to navigate, depending on what you already know.
 
 ## Who this repository is for
 
-- **Business Outcome Owners** (the [Chapter 24](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-24-roles-teams-and-governance-forums.md) role accountable for outcome baseline, target, and process authority) — this is your primary design reference.
-- **Process owners** redesigning a business process to include agentic steps — [05-process-architecture-integration](../05-process-architecture-integration/process-to-agent-participation-map.md) is written for you specifically.
-- **UX and workflow designers** — [02-workflow-blueprint](../02-workflow-blueprint/blueprint-overview.md) and [04-trust-calibration](../04-trust-calibration/trust-calibration.md) are the working sections.
-- **Change management and enablement teams** — [06-change-and-capability](../06-change-and-capability/change-and-capability.md) covers adoption, training, and transition metrics.
+- **Business Outcome Owners** (the [Chapter 24](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-24-roles-teams-and-governance-forums.md) role accountable for outcome baseline, target, and process authority): this is your primary design reference.
+- **Process owners** redesigning a business process to include agentic steps: [05-process-architecture-integration](../05-process-architecture-integration/process-to-agent-participation-map.md) is written for you specifically.
+- **UX and workflow designers**: [02-workflow-blueprint](../02-workflow-blueprint/blueprint-overview.md) and [04-trust-calibration](../04-trust-calibration/trust-calibration.md) are the working sections.
+- **Change management and enablement teams**: [06-change-and-capability](../06-change-and-capability/change-and-capability.md) covers adoption, training, and transition metrics.
 
 ## What this repository is not
 

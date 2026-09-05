@@ -4,7 +4,7 @@
 
 [Chapter 24 — Roles, Teams and Governance Forums](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-24-roles-teams-and-governance-forums.md) names the enterprise role this repository's authority-and-evidence design decisions ultimately answer to:
 
-> **Business Outcome Owner** — Accountable for outcome baseline, target, process authority and value realization.
+> **Business Outcome Owner**: accountable for outcome baseline, target, process authority and value realization.
 
 This is the enterprise-level expression of the Business Process Owner, and it is the reason "the process owner is never the agent" is a principle rather than a preference: accountability always sits with a named human, regardless of how many steps in a process are agent-executed.
 
@@ -22,4 +22,4 @@ This is the enterprise-level expression of the Business Process Owner, and it is
 
 ## Why "who may decide" cannot be left implicit
 
-A common failure is leaving the authority field implicit, so the system ends up with more authority than anyone formally granted, simply because no one built a fallback path for timely human intervention. Naming a Business Outcome Owner for every workflow — not just for the system, but for the process the system participates in — is what prevents this drift.
+A common failure is leaving the authority field implicit, so the system ends up with more authority than anyone formally granted, simply because no one built a fallback path for timely human intervention. Naming a Business Outcome Owner for every workflow (not just for the system, but for the process the system participates in) is what prevents this drift.

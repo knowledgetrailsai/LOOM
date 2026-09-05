@@ -2,7 +2,7 @@
 
 `Home › 02-workflow-blueprint › Overview`
 
-Redesigning a workflow means fixing eight design decisions, per step, before any code or prompt gets written. Skipping one doesn't remove the decision — it just means the decision gets made implicitly, in production, usually by whichever engineer wrote the fallback path last.
+Redesigning a workflow means fixing eight design decisions, per step, before any code or prompt gets written. Skipping one doesn't remove the decision. It just means the decision gets made implicitly, in production, usually by whichever engineer wrote the fallback path last.
 
 | Element | Required design decision |
 |---|---|
@@ -21,6 +21,6 @@ The two most common defects: (1) "AI contribution" is described as a technology 
 
 ## Worked example
 
-[template.md](template.md) contains a fully filled-in blueprint for an expense-report anomaly-detection workflow — every field populated with concrete values, not placeholders. Use it as the reference shape when filling in a new one.
+[template.md](template.md) contains a fully filled-in blueprint for an expense-report anomaly-detection workflow: every field populated with concrete values, not placeholders. Use it as the reference shape when filling in a new one.
 
 The fillable YAML schema is in [templates/human-ai-workflow-blueprint.yaml](../templates/human-ai-workflow-blueprint.yaml).

@@ -31,7 +31,7 @@ A copy of this schema, ready to fill in, is in [templates/human-ai-workflow-blue
 
 ## Worked example: expense-report anomaly detection
 
-Scenario: a model classifies submitted expense line items against policy limits and flags anomalies. Below is the blueprint for the single "classify and route" step — the part of the workflow with the most design risk.
+Scenario: a model classifies submitted expense line items against policy limits and flags anomalies. Below is the blueprint for the single "classify and route" step, the part of the workflow with the most design risk.
 
 ```yaml
 human_ai_workflow_blueprint:

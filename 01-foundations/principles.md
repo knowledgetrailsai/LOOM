@@ -16,7 +16,7 @@ A named human or function owns the end-to-end process outcome regardless of how 
 
 ## Autonomy is a ladder, climbed one rung at a time
 
-Autonomy is not a single on/off decision made at launch — moving up a rung should be evidence-based, not calendar-based. See [03-progressive-autonomy](../03-progressive-autonomy/autonomy-ladder.md).
+Autonomy is not a single on/off decision made at launch. Moving up a rung should be evidence-based, not calendar-based. See [03-progressive-autonomy](../03-progressive-autonomy/autonomy-ladder.md).
 
 ## The objective is appropriate reliance, not maximum trust
 

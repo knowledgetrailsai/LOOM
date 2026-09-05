@@ -8,7 +8,7 @@ Engaging users during discovery and evaluation — before a workflow is built, w
 
 ## Redesign the surrounding conditions, not just the task
 
-A workflow redesign that leaves performance measures, incentives, and staffing levels unchanged tends to fail even when the workflow itself is technically sound — people are still being measured and resourced as though the old process were running. Quality checks and performance measures need to be redesigned in the same pass as the [workflow blueprint](../02-workflow-blueprint/template.md) itself.
+A workflow redesign that leaves performance measures, incentives, and staffing levels unchanged tends to fail even when the workflow itself is technically sound. People are still being measured and resourced as though the old process were running. Quality checks and performance measures need to be redesigned in the same pass as the [workflow blueprint](../02-workflow-blueprint/template.md) itself.
 
 ## What training must cover
 
