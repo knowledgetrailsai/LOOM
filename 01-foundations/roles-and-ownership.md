@@ -24,4 +24,4 @@ This is the enterprise-level expression of the Business Process Owner, and it is
 
 ## Why "who may decide" cannot be left implicit
 
-A common failure is leaving the authority field implicit, so the system ends up with more authority than anyone formally granted, simply because no one built a fallback path for timely human intervention. Naming a Business Outcome Owner for every workflow (not just for the system, but for the process the system participates in) is what prevents this drift.
+A common failure is leaving the authority field implicit. When no one builds a fallback path for timely human intervention, the system ends up with more authority than anyone actually granted it. Naming a Business Outcome Owner for every workflow — not just for the system, but for the process it participates in — is what prevents that drift.

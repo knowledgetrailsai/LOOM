@@ -25,7 +25,7 @@ Notes on the table:
 
 ## Two recurring failure patterns
 
-**Leaving authority implicit.** Without an explicit table like the one above, the system accretes more authority than anyone formally granted, usually because no one built a fallback path for timely human intervention, so the default answer to "who decides" quietly becomes "whoever configured the last threshold." Authority must resolve to a named role or a rule, checkable against the table.
+**Leaving authority implicit.** Without an explicit table like the one above, the system accretes more authority than anyone formally granted — usually because no one built a fallback path for timely human intervention. The default answer to "who decides" then quietly becomes "whoever configured the last threshold." Authority must resolve to a named role or a rule, checkable against the table.
 
 **A well-specified AI role with no feedback-loop field filled in.** Every correction a human makes evaporates instead of improving the system. The feedback field links directly into the [Chapter 18 evaluation dataset](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-18-evaluation-and-reliability-engineering.md); a correction that doesn't reach that dataset is a lesson the system re-learns from a future failure of the same shape.
 

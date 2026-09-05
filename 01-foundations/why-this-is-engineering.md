@@ -27,4 +27,4 @@ Chapter 16 produces the artifact the rest of the methodology points back to: the
 - [Chapter 17](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-17-enterprise-integration-and-tool-engineering.md)'s tool contracts assume the authority model is already decided.
 - [Chapter 18](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-18-evaluation-and-reliability-engineering.md)'s evaluation of escalation correctness assumes the escalation triggers named here already exist.
 
-OASIS treats adoption as workflow engineering, not post-build communication: human judgment, AI capability, deterministic controls and enterprise systems each doing the work they suit best.
+OASIS treats adoption as workflow engineering, not as communication that happens after the system is built. Each part does the work it's suited for: human judgment, AI capability, deterministic controls, and existing enterprise systems.

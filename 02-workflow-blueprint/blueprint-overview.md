@@ -19,7 +19,7 @@ Redesigning a workflow means fixing eight design decisions, per step, before any
 
 ## Where designs go wrong
 
-The two most common defects: (1) "AI contribution" is described as a technology ("uses an LLM") instead of a cognitive function ("drafts a first-pass response"), which makes it impossible to derive what evidence a reviewer needs; (2) "authority" resolves to "the AI, usually" instead of a named role or a boolean expression over case attributes. See [authority-and-evidence.md](authority-and-evidence.md) for the fix to both.
+Two defects show up most often. First, "AI contribution" gets described as a technology ("uses an LLM") instead of a cognitive function ("drafts a first-pass response") — and from a technology description, you can't tell what evidence a reviewer needs. Second, "authority" resolves to "the AI, usually" instead of a named role or a boolean expression over case attributes. See [authority-and-evidence.md](authority-and-evidence.md) for the fix to both.
 
 ## Worked example
 

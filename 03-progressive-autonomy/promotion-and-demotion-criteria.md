@@ -11,7 +11,7 @@ Promote a workflow to the next rung of the [autonomy ladder](autonomy-ladder.md)
 1. **Sample size**: n ≥ 500 AI-assisted decisions in the current rolling window.
 2. **Statistical bound**: the 95% Wilson score upper confidence bound on the override/error rate is below the rung's target threshold.
 
-Do not promote on the point estimate alone. A point estimate of 2% on n=30 carries far more uncertainty than 2% on n=5000, and a calendar-based or point-estimate-based promotion is exactly what produces incidents on rare cases the sample never actually covered.
+Do not promote on the point estimate alone. A point estimate of 2% on n=30 carries far more uncertainty than 2% on n=5000. Promoting on a calendar schedule or on the point estimate alone is exactly what produces incidents on rare cases the sample never actually covered.
 
 ### Wilson score interval
 
@@ -47,16 +47,16 @@ UB = 0.0417960 / 1.0076832 = 0.04148  →  4.15%
 
 n = 500 ≥ 500 (sample-size gate passes). UB = 4.15% < 5% target → **promote**.
 
-If the same 2.4% point estimate were observed on n = 60 instead, the Wilson upper bound rises to roughly 12% — well above a 5% target, and the sample-size gate would fail regardless — which is the concrete reason the point estimate alone cannot be the promotion criterion.
+If the same 2.4% point estimate were observed on n = 60 instead, the Wilson upper bound rises to roughly 12% — well above a 5% target. The sample-size gate would fail regardless. This is the concrete reason the point estimate alone cannot be the promotion criterion.
 
 ## Demotion rule
 
 Demote immediately, pending re-evaluation, if either holds:
 
-1. The rolling 7-day override rate's **point estimate** exceeds 2× the rate observed at the time of last promotion (e.g., promoted at 2.4% → demote if the 7-day rate exceeds 4.8%, no confidence-interval calculation required, since this is a fast trip-wire, not a statistical test).
+1. The rolling 7-day override rate's **point estimate** exceeds 2× the rate observed at the time of last promotion (e.g., promoted at 2.4% → demote if the 7-day rate exceeds 4.8%). No confidence-interval calculation is needed here — this is a fast trip-wire, not a statistical test.
 2. A policy or model change occurred with unverified downstream effect on this workflow: demote until re-verified against the Chapter 18 evaluation set, independent of the current override rate.
 
-Demotion is not a failure state to be avoided; treating it as one discourages teams from doing it when the data calls for it, which is itself a trust-calibration risk (see [04-trust-calibration](../04-trust-calibration/behavioral-signals.md)).
+Demotion is not a failure state to be avoided. Treating it as one discourages teams from demoting a workflow when the data calls for it — and that avoidance is itself a trust-calibration risk (see [04-trust-calibration](../04-trust-calibration/behavioral-signals.md)).
 
 ## Additional promotion gate
 
