@@ -1,6 +1,6 @@
 # Loom: OASIS Human–AI Workflow and Experience Engineering
 
-A human–AI workflow companion to the OASIS methodology — redesigning work around complementary human and machine strengths, organized as a **control plane**: authority, evidence and fallback decided at design time, not discovered during an incident.
+A human–AI workflow companion to the OASIS methodology that redesigns work around complementary human and machine strengths. It functions as an operating system for the handoff itself: authority, evidence, and fallback get decided at design time, not discovered during an incident.
 
 ```
 TASK/DECISION → AI CONTRIBUTION → HUMAN CONTRIBUTION → AUTHORITY → EVIDENCE → FALLBACK → FEEDBACK → OUTCOME
@@ -13,7 +13,7 @@ TASK/DECISION → AI CONTRIBUTION → HUMAN CONTRIBUTION → AUTHORITY → EVIDE
 
 ## Why This Exists
 
-Most AI programs succeed or fail here — not on model quality, but on whether the surrounding work was redesigned for the new division of labor. A workflow that never specifies who has authority over a decision, or what a person sees before approving an AI-prepared action, is an **unfinished design**, not a training gap.
+Most AI programs succeed or fail here, and not on model quality: what decides the outcome is whether the surrounding work was redesigned for the new division of labor. A workflow that never specifies who has authority over a decision, or what a person sees before approving an AI-prepared action, is an **unfinished design**, not a training gap.
 
 ```
 Governing question: who is allowed to do what with the system,
@@ -24,7 +24,7 @@ Loom gives this full operational treatment: the Human–AI Workflow Blueprint th
 
 ## Start Here
 
-New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repository.md](00-navigation-and-methodology/how-to-use-this-repository.md) — it routes you by role and task. See [00-navigation-and-methodology/knowledge-map.md](00-navigation-and-methodology/knowledge-map.md) for the full model, including a worked example tracing one workflow end to end through every section below.
+New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repository.md](00-navigation-and-methodology/how-to-use-this-repository.md). It routes you by role and task. See [00-navigation-and-methodology/knowledge-map.md](00-navigation-and-methodology/knowledge-map.md) for the full model, including a worked example tracing one workflow end to end through every section below.
 
 ## Repository Structure
 
@@ -69,13 +69,13 @@ New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repo
 ## Relationship to Companion Repositories
 
 - **[OASIS](https://github.com/knowledgetrailsai/OASIS)** — the parent methodology; Loom implements its human–AI workflow chapter specifically, the way [Helm](https://github.com/knowledgetrailsai/HELM) implements deployment/operations and [Forge](../Forge) implements data and knowledge engineering.
-- **[Forge](../Forge)** — the data and knowledge companion (Chapter 15); the evidence shown to a reviewer in Loom's workflow blueprint depends on Forge's grounding policy and readiness assessment.
+- **[Forge](../Forge)**, the data and knowledge companion (Chapter 15); the evidence shown to a reviewer in Loom's workflow blueprint depends on Forge's grounding policy and readiness assessment.
 - **[Helm](https://github.com/knowledgetrailsai/HELM)** — escalation triggers and override rates named in a Loom workflow blueprint feed Helm's incident-response and learning-loop instrumentation.
-- **[Nexus](https://github.com/knowledgetrailsai/Nexus)** — the opportunity catalog; a use case's human-in-the-loop shape is decided here once it reaches engineering.
+- **[Nexus](https://github.com/knowledgetrailsai/Nexus)** is the opportunity catalog; a use case's human-in-the-loop shape is decided here once it reaches engineering.
 
 ## Status
 
-Scaffold stage — structure and first-pass content drafted section by section from the OASIS methodology and its architecture companions. See each section for what's drafted versus still a stub.
+Early scaffold: the structure is in place and first-pass content has been drafted section by section, working from the OASIS methodology and its architecture companions. Check each section to see what's drafted versus still a stub.
 
 ## License
 
