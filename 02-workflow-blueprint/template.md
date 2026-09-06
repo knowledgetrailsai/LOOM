@@ -89,3 +89,7 @@ human_ai_workflow_blueprint:
 ```
 
 Read this against [authority-and-evidence.md](authority-and-evidence.md) for the decision rule behind the auto-approve threshold, and [process-risk-classification.md](../05-process-architecture-integration/process-risk-classification.md) for how the $50/100%-compliant cutoff would be derived for a different process.
+
+---
+
+[← Previous: Authority and Evidence](authority-and-evidence.md) · [Contents](../README.md) · [Next: Autonomy Ladder →](../03-progressive-autonomy/autonomy-ladder.md)

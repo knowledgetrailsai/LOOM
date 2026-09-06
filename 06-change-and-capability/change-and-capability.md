@@ -22,3 +22,7 @@ Training must cover:
 Not just interface mechanics. Accessibility, language, channel and digital-literacy needs belong in that same design pass, not as a later retrofit.
 
 See [adoption-and-training.md](adoption-and-training.md) and [transition-metrics.md](transition-metrics.md) for the detail behind each of these.
+
+---
+
+[← Previous: Process Risk Classification](../05-process-architecture-integration/process-risk-classification.md) · [Contents](../README.md) · [Next: Adoption and Training →](adoption-and-training.md)

@@ -7,3 +7,7 @@ See [process-to-agent-participation-map.md](../05-process-architecture-integrati
 | Process | Step | Executed by (human / task agent / specialist agent) | Decision authority at this step | Handback trigger | Process owner |
 |---|---|---|---|---|---|
 | | | | | | |
+
+---
+
+[← Previous: Terminology](../glossary/terminology.md) · [Contents](../README.md)

@@ -17,3 +17,7 @@ Interfaces are the primary lever for correcting over-reliance or under-use. A wo
 ## Design discipline
 
 Visible "where a reviewer will see it" is doing real work in this list: a limitations statement in a help page nobody reads does not calibrate trust in the moment a decision is made. Put these levers in the reviewer's direct line of sight at the point of decision, not one click away.
+
+---
+
+[← Previous: Appropriate Reliance](appropriate-reliance.md) · [Contents](../README.md) · [Next: Behavioral Signals →](behavioral-signals.md)

@@ -24,3 +24,7 @@ A workflow redesign that leaves performance measures, incentives, and staffing l
 ## Accessibility as a design-pass item, not a retrofit
 
 Accessibility, language, channel and digital-literacy needs belong in the same design pass as the workflow itself. Retrofitting these after launch usually means redesigning an interface that trust-calibration and interaction patterns have already been built around.
+
+---
+
+[← Previous: Change and Capability](change-and-capability.md) · [Contents](../README.md) · [Next: Transition Metrics →](transition-metrics.md)

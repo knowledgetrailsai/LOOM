@@ -65,3 +65,7 @@ Do not promote if rubber-stamping is detected in trust-calibration monitoring fo
 ## Recording the decision
 
 Every promotion or demotion is recorded against the workflow's [Human–AI Workflow Blueprint](../02-workflow-blueprint/template.md): the `authority` field for the affected step changes, with the n, k, p̂, and UB values that justified it attached as the change record. That change is itself a release, following the same discipline [Helm](https://github.com/knowledgetrailsai/HELM)'s release-management practice applies to any production system-behavior change.
+
+---
+
+[← Previous: Autonomy Ladder](autonomy-ladder.md) · [Contents](../README.md) · [Next: Appropriate Reliance →](../04-trust-calibration/appropriate-reliance.md)

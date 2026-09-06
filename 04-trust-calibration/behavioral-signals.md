@@ -51,3 +51,7 @@ Example: automation was projected to eliminate 80% of manual review (leaving 20%
 ## Why this connects to the autonomy ladder
 
 These are exactly the signals [promotion-and-demotion-criteria.md](../03-progressive-autonomy/promotion-and-demotion-criteria.md) uses as a promotion gate. Rubber-stamping detected at the assist rung blocks promotion to approve-to-act regardless of a favorable Wilson-bound override rate. A low override rate produced by reviewers not actually reviewing is not evidence the AI is reliable.
+
+---
+
+[← Previous: Interface Design Levers](interface-design-levers.md) · [Contents](../README.md) · [Next: Process-to-Agent Participation Map →](../05-process-architecture-integration/process-to-agent-participation-map.md)

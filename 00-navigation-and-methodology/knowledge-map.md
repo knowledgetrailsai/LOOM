@@ -53,3 +53,7 @@ A claims-intake-and-triage workflow moves through every layer this repository co
 - **[Forge](../../Forge)**: Chapter 15 (Data and Knowledge Engineering); the evidence a Loom workflow shows a human reviewer is only as trustworthy as Forge's grounding policy and readiness assessment.
 - **[Helm](https://github.com/knowledgetrailsai/HELM)**: Chapter 17/18/19/21 (AgentOps); escalation triggers and override rates named in a Loom workflow blueprint feed Helm's incident-response and learning-loop instrumentation.
 - **[Nexus](https://github.com/knowledgetrailsai/Nexus)**: the opportunity catalog; a use case's human-in-the-loop shape is decided here once it reaches engineering.
+
+---
+
+[Contents](../README.md) · [Next: How to Use This Repository →](how-to-use-this-repository.md)

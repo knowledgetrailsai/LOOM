@@ -24,3 +24,7 @@ Shadow mode answers one question cheaply and safely: does the system's judgment 
 Exception-based operation (routine cases run within clear rules, a human reviews exceptions and a sample of the rest) is a durable end state for most processes, especially where a wrong action is expensive or hard to reverse. Most enterprise workflows never need to go further than this.
 
 See [promotion-and-demotion-criteria.md](promotion-and-demotion-criteria.md) for how a workflow actually moves between rungs.
+
+---
+
+[← Previous: Template](../02-workflow-blueprint/template.md) · [Contents](../README.md) · [Next: Promotion and Demotion Criteria →](promotion-and-demotion-criteria.md)

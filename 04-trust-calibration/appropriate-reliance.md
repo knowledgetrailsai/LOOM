@@ -23,3 +23,7 @@ All of this should be visible where a reviewer will actually see it, not buried 
 ## Correction and escalation need to be genuinely easy
 
 If the override path is not genuinely easy to use, it will not get used when it matters. A friction-heavy override mechanism produces the appearance of a well-governed workflow (an override path exists) while quietly failing its actual purpose (the override path is used when needed).
+
+---
+
+[← Previous: Promotion and Demotion Criteria](../03-progressive-autonomy/promotion-and-demotion-criteria.md) · [Contents](../README.md) · [Next: Interface Design Levers →](interface-design-levers.md)

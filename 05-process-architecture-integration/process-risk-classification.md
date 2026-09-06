@@ -37,3 +37,7 @@ A credit-limit-increase step: value = 3 (increases can run into thousands of dol
 ## Relationship to system-level workflow design
 
 A process map spans potentially many systems and agents; a single system's own harness and orchestration design governs how one agent or workflow executes its portion. Don't duplicate step-level implementation detail in the process map. Link to the owning system's design and keep the process map at the process-step, risk-tier, and ownership level.
+
+---
+
+[← Previous: Process Ownership Model](process-ownership-model.md) · [Contents](../README.md) · [Next: Change and Capability →](../06-change-and-capability/change-and-capability.md)

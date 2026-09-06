@@ -84,3 +84,7 @@ transitions:
 Without this graph it becomes unclear where an agent's authority starts and stops relative to the surrounding human-owned process, and process owners lose visibility into how much of "their" process now runs through agentic components they did not design.
 
 The fillable version is in [templates/](../templates/human-ai-workflow-blueprint.yaml).
+
+---
+
+[← Previous: Behavioral Signals](../04-trust-calibration/behavioral-signals.md) · [Contents](../README.md) · [Next: Process Ownership Model →](process-ownership-model.md)

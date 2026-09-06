@@ -25,3 +25,7 @@ Three ways to navigate, depending on what you already know.
 ## What this repository is not
 
 It is not a UI component library or a specific product's admin-console guide. It is the design discipline you apply before any interface gets built: who has authority over a decision, what evidence a human needs to exercise that authority, and what happens when the system's judgment and a human's disagree.
+
+---
+
+[← Previous: Knowledge Map](knowledge-map.md) · [Contents](../README.md) · [Next: Why This Is Engineering →](../01-foundations/why-this-is-engineering.md)

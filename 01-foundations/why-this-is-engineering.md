@@ -28,3 +28,7 @@ Chapter 16 produces the artifact the rest of the methodology points back to: the
 - [Chapter 18](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-18-evaluation-and-reliability-engineering.md)'s evaluation of escalation correctness assumes the escalation triggers named here already exist.
 
 OASIS treats adoption as workflow engineering, not as communication that happens after the system is built. Each part does the work it's suited for: human judgment, AI capability, deterministic controls, and existing enterprise systems.
+
+---
+
+[← Previous: How to Use This Repository](../00-navigation-and-methodology/how-to-use-this-repository.md) · [Contents](../README.md) · [Next: Principles →](principles.md)

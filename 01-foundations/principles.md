@@ -27,3 +27,7 @@ A user who defers to every AI recommendation looks efficient until the recommend
 ## Adoption work starts earlier than most programs schedule it
 
 Engaging users during discovery and evaluation surfaces objections and edge cases while they are still cheap to address. If training is people's first contact with the change, it's too late: the roles and incentives around their job have already been decided without them. See [06-change-and-capability](../06-change-and-capability/adoption-and-training.md).
+
+---
+
+[← Previous: Why This Is Engineering](why-this-is-engineering.md) · [Contents](../README.md) · [Next: Roles and Ownership →](roles-and-ownership.md)

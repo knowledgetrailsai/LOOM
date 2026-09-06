@@ -44,3 +44,7 @@ A trend that instead plateaus early (e.g., 18% → 16% → 15% → 15%) without 
 ## Why these come before outcome metrics
 
 Outcome metrics (Chapter 18, Chapter 26) tell you whether the business result improved, but they move slowly and can be confounded by many other factors. Transition metrics move fast and are directly attributable to the workflow redesign itself. A rising override rate or workaround count in week two is actionable long before a quarterly outcome metric would show anything.
+
+---
+
+[← Previous: Adoption and Training](adoption-and-training.md) · [Contents](../README.md) · [Next: Terminology →](../glossary/terminology.md)

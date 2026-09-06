@@ -26,3 +26,7 @@ Two defects show up most often. First, "AI contribution" gets described as a tec
 [template.md](template.md) contains a fully filled-in blueprint for an expense-report anomaly-detection workflow: every field populated with concrete values, not placeholders. Use it as the reference shape when filling in a new one.
 
 The fillable YAML schema is in [templates/human-ai-workflow-blueprint.yaml](../templates/human-ai-workflow-blueprint.yaml).
+
+---
+
+[← Previous: Roles and Ownership](../01-foundations/roles-and-ownership.md) · [Contents](../README.md) · [Next: Authority and Evidence →](authority-and-evidence.md)

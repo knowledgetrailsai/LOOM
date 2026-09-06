@@ -23,3 +23,7 @@
 **Shadow mode** — the autonomy mode where a system observes and produces non-operational output for retrospective comparison, without acting.
 
 **Trust calibration**: designing and measuring for appropriate reliance on a system, neither over-trust nor under-use.
+
+---
+
+[← Previous: Transition Metrics](../06-change-and-capability/transition-metrics.md) · [Contents](../README.md) · [Next: Process Participation Map Template →](../templates/process-participation-map-template.md)
